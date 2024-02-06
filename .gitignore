@@ -1,0 +1,9 @@
+.gitignore
+*.driveupload/
+
+# For C++ codes and projects
+*pro.user
+*build*
+/templates*
+/examples*
+*.out
